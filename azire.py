@@ -13,7 +13,7 @@ from telegram.ext import (
 )
 
 # ==================== CONFIG ====================
-BOT_TOKEN = "8234802831:AAGHVgLobRN6dSXnKTm1eOS5nYJYxW_KRoM"
+BOT_TOKEN = "TokenBot INJA Bezar"
 COMMANDER_ID = "inja bayad ChatID Admin bezarin"
 LOGIN_URL = "https://manager.azirevpn.com/auth/login"
 BASE_URL = "https://manager.azirevpn.com"
